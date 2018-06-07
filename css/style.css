@@ -1,0 +1,150 @@
+.main-wrapper {
+  margin-left: auto;
+  margin-right: auto;
+  width: 1200px
+}
+.HomePagerow0 {
+  display: flex;
+  margin-left: 48px;
+  margin-top: 63px;
+  width: 972px;
+  height: 61px;
+  align-items: center
+}
+.HomePagerow0unsupported0 {
+  margin-left: 0;
+  width: 62px;
+  height: 100%
+}
+.style0,
+.style2 {
+  background-color: #fff;
+  border-left: 1px solid #000;
+  border-right: 1px solid #000;
+  border-top: 1px solid #000;
+  border-bottom: 1px solid #000
+}
+.style0 {
+  font-family: BalsamiqSans,serif;
+  font-size: .75em;
+  text-indent: 22px;
+  margin-left: 512px;
+  width: 185px;
+  height: 24px
+}
+.style2 {
+  box-shadow: 2096px 2096px 0 0 #000;
+  display: flex;
+  margin-left: 62px;
+  width: 35px;
+  height: 26px;
+  align-items: stretch;
+  flex-direction: column;
+  justify-content: center
+}
+.style3 {
+  text-align: center;
+  font-family: BalsamiqSans,serif;
+  font-size: .75em;
+  height: 13px
+}
+.style4 {
+  background-color: #fff;
+  border-left: 1px solid #000;
+  border-right: 1px solid #000;
+  border-top: 1px solid #000;
+  border-bottom: 1px solid #000;
+  box-shadow: 2096px 2096px 0 0 #000;
+  display: flex;
+  margin-left: 0;
+  width: 46px;
+  height: 26px;
+  align-items: stretch;
+  flex-direction: column;
+  justify-content: center
+}
+.style5 {
+  text-align: center;
+  font-family: BalsamiqSans,serif;
+  font-size: .75em;
+  height: 13px
+}
+.style6 {
+  background-color: #fff;
+  border-left: 1px solid #000;
+  border-right: 1px solid #000;
+  border-top: 1px solid #000;
+  border-bottom: 1px solid #000;
+  box-shadow: 2096px 2096px 0 0 #000;
+  display: flex;
+  margin-left: 0;
+  width: 70px;
+  height: 26px;
+  align-items: stretch;
+  flex-direction: column;
+  justify-content: center
+}
+.style7 {
+  text-align: center;
+  font-family: BalsamiqSans,serif;
+  font-size: .75em;
+  height: 13px
+}
+.HomePageunsupported1 {
+  margin-left: 107px;
+  margin-top: 23px;
+  width: 981px;
+  height: 133px
+}
+.HomePagerow2 {
+  display: flex;
+  margin-left: 79px;
+  margin-top: 44px;
+  width: 994px;
+  height: 77px;
+  align-items: stretch
+}
+.style10,
+.style12,
+.style8 {
+  font-family: BalsamiqSans,serif;
+  font-size: .75em;
+  margin-left: 0;
+  width: 266px
+}
+.style10,
+.style12 {
+  margin-left: 113px
+}
+.style12 {
+  margin-left: 82px
+}
+.HomePagerow3 {
+  position: relative;
+  display: flex;
+  margin-left: 79px;
+  margin-top: 20px;
+  width: 994px;
+  height: 77px
+}
+.style11,
+.style13,
+.style9 {
+  font-family: BalsamiqSans,serif;
+  font-size: .75em;
+  width: 266px;
+  flex-shrink: 0
+}
+.style9 {
+  position: relative;
+  margin-top: 15px;
+  margin-left: 0
+}
+.style11,
+.style13 {
+  margin-left: 113px;
+  align-self: stretch
+}
+.style13 {
+  margin-left: 82px
+}
